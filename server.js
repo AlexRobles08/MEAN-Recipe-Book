@@ -1,5 +1,6 @@
 const express = require("express");
 const dotenv = require("dotenv");
+const morgan = require("morgan");
 
 // Importing the routes
 const recipes = require("./routes/recipes");
@@ -8,6 +9,11 @@ const recipes = require("./routes/recipes");
 dotenv.config({ path: "./config/config.env" });
 
 const app = express();
+
+// Dev logging middelware
+if (process.env.NODE_ENV === "development") {
+  app.use(morgan("dev"));
+}
 
 // Mount routers
 app.use("/api/v1/recipes", recipes);
