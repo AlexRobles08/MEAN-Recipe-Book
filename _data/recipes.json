@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Barbacoa-Style Shredded Beef",
+    "slug": "barbacoa-style-shredded-beef",
+    "description": "",
+    "serves": "",
+    "categories": [],
+    "notes": "",
+    "prep": { "hours": 1, "minutes": 30 },
+    "cook": { "hours": 1, "minutes": 30 },
+    "readyIn": { "hours": 1, "minutes": 30 },
+    "directions": [
+      "Season beef chunks with salt and pepper on all sides.",
+      "Heat oil in a large skillet over medium-high heat. Add beef in batches; cook until browned, about 1 minute per side. Transfer beef to a slow cooker.",
+      "Combine beef broth, apple cider vinegar, lime juice, chipotle peppers, garlic, cumin, oregano, and cloves in a bowl. Season with salt and pepper and mix well. Pour over beef in the slow cooker. Stir in bay leaves.",
+      "Cook on Low until beef is fork-tender, 8 to 10 hours.",
+      "Discard bay leaves. Remove beef and shred using 2 forks. Return beef to the slow cooker to marinate in the sauce for at least 10 more minutes before serving."
+    ],
+    "source": "https://www.allrecipes.com/recipe/246835/barbacoa-style-shredded-beef/",
+    "author": "",
+    "ingredients": [
+      {
+        "name": "beef chuck roast",
+        "measurement": "1 (3 pound)",
+        "note": "cut into 6 to 8 chunks"
+      },
+      {
+        "name": "salt and ground black pepper",
+        "measurement": " to taste",
+        "note": ""
+      },
+      {
+        "name": "vegetable oil",
+        "measurement": "2 tablespoons",
+        "note": ""
+      },
+      {
+        "name": "beef broth",
+        "measurement": "1/2 cup",
+        "note": ""
+      },
+      {
+        "name": "apple cider vinegar",
+        "measurement": "1/4 cup",
+        "note": ""
+      },
+      {
+        "name": "fresh lime juice",
+        "measurement": "1/4 cup",
+        "note": ""
+      },
+      {
+        "name": "chipotle peppers",
+        "measurement": "4",
+        "note": "in adobo sauce chopped"
+      },
+      {
+        "name": "cloves garlic",
+        "measurement": "5 ",
+        "note": "chopped"
+      },
+      {
+        "name": "ground cumin",
+        "measurement": "1 tablespoon",
+        "note": ""
+      },
+      {
+        "name": "dried oregano",
+        "measurement": "1 tablespoon",
+        "note": ""
+      },
+      {
+        "name": "ground cloves",
+        "measurement": "1/4 teaspoon",
+        "note": ""
+      },
+      {
+        "name": "bay leaves",
+        "measurement": "3",
+        "note": ""
+      }
+    ],
+    "rating": 1,
+    "photo": ""
+  },
+  {
+    "name": "Teriyaki Salmon",
+    "slug": "teriyaki-salmon",
+    "description": "",
+    "serves": "",
+    "categories": [],
+    "notes": "",
+    "prep": { "hours": 0, "minutes": 10 },
+    "cook": { "hours": 0, "minutes": 15 },
+    "readyIn": { "hours": 1, "minutes": 25 },
+    "directions": [
+      "Mix sesame oil, lemon juice, soy sauce, brown sugar, sesame seeds, ground mustard, ginger, and garlic powder in a small saucepan over low heat. Bring to a simmer, stirring until sugar has dissolved. Set aside 1/2 cup of marinade for basting.",
+      "Pour remaining marinade into a resealable plastic bag and place salmon into the marinade. Squeeze air out of the bag, seal, and marinate the salmon steaks for at least 1 hour (2 hours for better flavor). Drain and discard used marinade.",
+      "Set oven rack about 4 inches from the heat source and preheat the oven's broiler. Place salmon steaks into a broiler pan and broil for 5 minutes. Brush steaks with reserved marinade, turn, and broil until fish is opaque and flakes easily, about 5 more minutes. Brush again with marinade."
+    ],
+    "source": "",
+    "author": "",
+    "ingredients": [
+      {
+        "name": "sesame oil",
+        "measurement": "1/4 cup",
+        "note": ""
+      },
+      {
+        "name": "lemon juice",
+        "measurement": "1/4 cup",
+        "note": ""
+      },
+      {
+        "name": "soy sauce",
+        "measurement": "1/4 cup",
+        "note": ""
+      },
+      {
+        "name": "brown sugar",
+        "measurement": "2 tablespoons",
+        "note": "or more to taste"
+      },
+      {
+        "name": "sesame seeds",
+        "measurement": "1 tablespoon",
+        "note": ""
+      },
+      {
+        "name": "ground mustard",
+        "measurement": "1 teaspoon",
+        "note": ""
+      },
+      {
+        "name": "ground ginger",
+        "measurement": "1 teaspoon",
+        "note": ""
+      },
+      {
+        "name": "garlic powder",
+        "measurement": "1/4 teaspoon",
+        "note": ""
+      },
+      {
+        "name": "salmon steaks",
+        "measurement": "4 (6 ounce)",
+        "note": ""
+      }
+    ],
+    "rating": 1,
+    "photo": ""
+  },
+  {
+    "name": "Authentic Pho",
+    "slug": "authentic-pho",
+    "description": "This authentic pho isn't quick, but it is delicious. The key is in the broth, which gets simmered for at least 6 hours.",
+    "serves": "",
+    "categories": [],
+    "notes": "",
+    "prep": "20",
+    "cook": "8",
+    "readyIn": ["9", "20"],
+    "directions": [],
+    "source": "",
+    "author": "",
+    "ingredients": [
+      {
+        "name": "beef soup bones",
+        "measurement": "4 pounds",
+        "note": ""
+      },
+      {
+        "name": "onion",
+        "measurement": "1",
+        "note": "unpeeled and cut in half"
+      },
+      {
+        "name": "fresh ginger",
+        "measurement": "5 slices",
+        "note": ""
+      },
+      {
+        "name": "salt",
+        "measurement": "1 tablespoon",
+        "note": ""
+      },
+      {
+        "name": "star anise",
+        "measurement": "2 pods",
+        "note": ""
+      },
+      {
+        "name": "water",
+        "measurement": "4 quarts",
+        "note": ""
+      },
+      {
+        "name": "dried rice noodles",
+        "measurement": "1 (8 ounce) package",
+        "note": ""
+      },
+      {
+        "name": "beef top sirloin",
+        "measurement": "1 1/2 pounds",
+        "note": "thinly sliced"
+      },
+      {
+        "name": "cilantro",
+        "measurement": "1/2 cup chopped",
+        "note": ""
+      },
+      {
+        "name": "green onion",
+        "measurement": "1 tablespoon chopped",
+        "note": ""
+      },
+      {
+        "name": "bean sprouts",
+        "measurement": "1 1/2 cups ",
+        "note": ""
+      },
+      {
+        "name": "Thai basil",
+        "measurement": "1 bunch",
+        "note": ""
+      },
+      {
+        "name": "lime",
+        "measurement": "1",
+        "note": "cut into 4 wedges"
+      },
+      {
+        "name": "hoisin sauce",
+        "measurement": "1/4 cup ",
+        "note": "(optional)"
+      },
+      {
+        "name": "chile-garlic sauce",
+        "measurement": "1/4 cup",
+        "note": "(such as Sriracha®) (optional)"
+      }
+    ],
+    "rating": 1,
+    "photo": ""
+  },
+  {
+    "name": "Buttermilk Waffles",
+    "slug": "buttermilk-waffles",
+    "description": "Chef Anna Olson shows you how to make amazing buttermilk waffles from scratch! These big, homemade waffles can be made with chocolate chips if you choose, and topped with maple syrup and fresh berries for garnish.",
+    "serves": "",
+    "categories": ["breakfast", "vegetarian"],
+    "notes": "If you cannot get a hold of buttermilk you can mix 1 part turkish/greek yoghurt to 2 parts of milk",
+    "prep": "15 min",
+    "cook": "25 min",
+    "readyIn": "40 min",
+    "directions": [
+      "Mix all the dry ingredients in one bowl and whisk together",
+      "Pour all the wet ingredients (except for the egg whites) in another bowl, and mix till they are together",
+      "Whisk the egg whites to form "
+    ],
+    "source": "https://www.youtube.com/watch?v=fEGoNZgB1OY",
+    "author": "Chef Anna Olson",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "measurement": "300 g",
+        "note": ""
+      },
+      {
+        "name": "granulated sugar",
+        "measurement": "35 g",
+        "note": ""
+      },
+      {
+        "name": "baking powder",
+        "measurement": "12 g",
+        "note": ""
+      },
+      {
+        "name": "fine salt",
+        "measurement": "½ tsp (2.5 g)",
+        "note": ""
+      },
+      {
+        "name": "buttermilk",
+        "measurement": "1 ¼ cups (310 mL)",
+        "note": ""
+      },
+      {
+        "name": "vegetable oil",
+        "measurement": "½ cup (125 mL)",
+        "note": ""
+      },
+      {
+        "name": "eggs",
+        "measurement": "2",
+        "note": "large and separated"
+      },
+      {
+        "name": "vanilla extract",
+        "measurement": "to taste (recommended 1/3 tsp)",
+        "note": ""
+      },
+      {
+        "name": "chocolate chips",
+        "measurement": "1 cup (175 g)",
+        "note": "(optional)"
+      },
+      {
+        "name": "Maple syrup and fresh berries",
+        "measurement": "",
+        "note": "for serving"
+      }
+    ],
+    "rating": 9,
+    "photo": ""
+  }
+]
