@@ -2,6 +2,7 @@ const express = require("express");
 const dotenv = require("dotenv");
 const morgan = require("morgan");
 const colors = require("colors");
+const cors = require("cors");
 const connectDB = require("./config/db");
 
 // Load environment variables
@@ -14,6 +15,8 @@ connectDB();
 const recipes = require("./routes/recipes");
 
 const app = express();
+
+app.use(cors());
 
 app.use(express.json());
 
